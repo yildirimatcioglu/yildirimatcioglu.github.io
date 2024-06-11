@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["F3AHR4CUSA.com.yildirimatcioglu.InSave"],
+            "components": [{
+                "/": "/stock/*",
+                "comment": "Matches any URL whose path starts with /stock/"
+            }]
+        }]
+    },
+   "webcredentials": {
+      "apps": [ "F3AHR4CUSA.com.yildirimatcioglu.InSave" ]
+   }
+}
